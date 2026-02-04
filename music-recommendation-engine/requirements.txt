@@ -1,0 +1,10 @@
+langgraph==0.2.45
+langchain==0.3.7
+langchain-openai==0.2.8
+openai==1.54.3
+spotipy==2.24.0
+fastapi==0.115.4
+uvicorn==0.32.0
+python-dotenv==1.0.1
+pydantic==2.9.2
+pydantic-settings==2.6.0
