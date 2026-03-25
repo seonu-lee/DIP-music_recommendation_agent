@@ -111,15 +111,12 @@ POST /recommend
 
 ## 성능 분석 결과 요약
 
-* 
-**Persona-Genre Accuracy**: 100.00% (사용자 취향 완벽 이해) 
+* **Persona-Genre Accuracy**: 100.00% (사용자 취향 완벽 이해) 
 
 
-* 
-**Context-Sentiment Accuracy**: 81.17% (상황 맥락 정확히 이해) 
+* **Context-Sentiment Accuracy**: 81.17% (상황 맥락 정확히 이해) 
 
 
-* 
-**Deep Link Conversion**: 85.15% (실제 청취로 이어지는 높은 수용도) 
+* **Deep Link Conversion**: 85.15% (실제 청취로 이어지는 높은 수용도) 
 
 
