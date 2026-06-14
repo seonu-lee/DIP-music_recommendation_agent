@@ -16,3 +16,5 @@ venv/
 
 #API 키 무시
 .env
+
+reports/
